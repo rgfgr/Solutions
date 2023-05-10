@@ -1,3 +1,0 @@
-Læs filerne i numerisk rækkefølge.
-
-Kig først på filer i undermapperne når du bliver opfordret til det.
