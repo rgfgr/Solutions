@@ -65,3 +65,4 @@ def pyramid_recursive(lines, numbers):
 
 
 pyramid2(10, range(10))
+pyramid2(499, [1, 1, 1])
